@@ -1,1 +1,2 @@
 gitmanual
+this can be changed according to our repository
